@@ -22,7 +22,7 @@
 
 ## 🔗 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/vaseem-khan-pathan-047697303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-[GitHub]() 
+[GitHub](https://github.com/vaasp12233) 
 Email : vaseemlaptop@gmail.com
 
 > “Code. Learn. Build. Repeat.” 🚀
